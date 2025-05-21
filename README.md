@@ -12,7 +12,7 @@ It includes scripts for data profiling, KPI tracking, time-series trends, cumula
 
 
 ## 🌟About Me
-I'm a budding Business and Data Analyst passionate about transforming data into actionable insights. I enjoy working with SQL, Excel,
+I'm a budding Business and Data/Database Analyst passionate about transforming data into actionable insights. I enjoy working with SQL, Excel,
 and BI tools to solve real-world problems, optimize operations, and support decision-making. This GitHub serves as my personal space
 to document learning, share projects, and demonstrate practical applications of analytics and reporting.
 
