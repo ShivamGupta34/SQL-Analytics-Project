@@ -3,7 +3,7 @@ My personal project: A versatile collection of SQL scripts for data/business ana
 This repository showcases a range of SQL queries developed to explore, segment, and analyze data within relational databases.
 It includes scripts for data profiling, KPI tracking, time-series trends, cumulative metrics, and customer segmentation.
 
-## Softwares Used
+## 🧰 Softwares Used
 🐘 Microsoft SQL Server
 🧮 SQL (Structured Query Language)
 🖥️ SSMS (SQL Server Management Studio)
